@@ -78,6 +78,12 @@ display(HTML('pipeline.html'))
 
 ```
 
+### Visual Example
+
+![Pipeline Visualization Example 1](visualize_pipeline/images/Screenshot 2023-06-21 at 10.22.21 PM.png)
+
+![Pipeline Visualization Example 2](visualize_pipeline/images/Screenshot 2023-06-21 at 10.22.21 PM.png)
+
 ## Scope
 
 Visualize Pipeline currently supports Scikit-Learn's Pipeline, FeatureUnion, and ColumnTransformer classes. It can visualize pipelines with nested pipelines and feature unions/column transformers.
