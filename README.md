@@ -80,9 +80,10 @@ display(HTML('pipeline.html'))
 
 ### Visual Example
 
-![Pipeline Visualization Example 1](visualize_pipeline/images/Screenshot 2023-06-21 at 10.22.21 PM.png)
+![Pipeline Visualization Example 1](https://raw.githubusercontent.com/pritiyadav888/visualize_pipeline/main/images/Screenshot%202023-06-21%20at%2010.22.21%20PM.png)
 
-![Pipeline Visualization Example 2](visualize_pipeline/images/Screenshot 2023-06-21 at 10.22.21 PM.png)
+![Pipeline Visualization Example 2](https://raw.githubusercontent.com/pritiyadav888/visualize_pipeline/main/images/Screenshot%202023-06-21%20at%2010.22.27%20PM.png)
+
 
 ## Scope
 
