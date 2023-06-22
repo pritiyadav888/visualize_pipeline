@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='pipeline_viz',
-    version='0.1.1',
+    version='0.1.2',
     url='https://github.com/pritiyadav888/visualize_pipeline.git',
     author='Pritii Yadav',
     author_email='pritiyadav888@gmail.com',
