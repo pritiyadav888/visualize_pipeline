@@ -92,5 +92,5 @@ Visualize Pipeline currently supports Scikit-Learn's Pipeline, FeatureUnion, and
 The package is meant for visualizing the structure of your pipelines and does not show the actual data flow or transformations in the pipeline.
 
 ### Contributing
-Contributions are welcome! Please open an issue or submit a pull request on the GitHub repository.
+Contributions are welcome! Please open an issue or submit a pull request on the ![GitHub repository](https://github.com/pritiyadav888/visualize_pipeline)https://github.com/pritiyadav888/visualize_pipeline).
 
